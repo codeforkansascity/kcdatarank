@@ -1,0 +1,889 @@
+CASE ID,SOURCE,DEPARTMENT,WORK GROUP,REQUEST TYPE,CATEGORY,TYPE,DETAIL,CREATION DATE,CREATION TIME,CREATION MONTH,CREATION YEAR,STATUS,EXCEEDED EST TIMEFRAME,CLOSED DATE,CLOSED MONTH,CLOSED YEAR,DAYS TO CLOSE,STREET ADDRESS,ADDRESS WITH GEOCODE,ZIP CODE,NEIGHBORHOOD,COUNTY,COUNCIL DISTRICT,POLICE DISTRICT,PARCEL ID NO,LATITUDE,LONGITUDE,CASE URL,30-60-90 Days Open Window
+2017159125,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/26/2017,11:45 AM,12,2017,RESOL,Y,01/23/2018,1,2018,28,333 W 46TH TER,"333 W 46TH TER
+64112
+(39.042984, -94.590899)",64112,Country Club Plaza,Jackson,4,Central,139680,39.042984,-94.590899,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017159125,
+2017158575,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/22/2017,07:17 AM,12,2017,RESOL,Y,01/23/2018,1,2018,32,1760 W 29TH ST,"1760 W 29TH ST
+64108
+(39.075416, -94.60664)",64108,,Jackson,4,Central,128929,39.075416,-94.60664,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017158575,
+2017157533,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/19/2017,03:51 PM,12,2017,RESOL,Y,01/17/2018,1,2018,29,7433 ARLETA BLVD,"7433 ARLETA BLVD
+64132
+(38.992026, -94.56374)",64132,East Meyer 7,Jackson,5,Metro,115338,38.992026,-94.56374,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017157533,
+2017157669,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,12/20/2017,07:42 AM,12,2017,RESOL,N,01/17/2018,1,2018,28,11713 GRANDVIEW RD,"11713 GRANDVIEW RD
+64137
+(38.911625, -94.53086)",64137,Hickman Mills,Jackson,6,South,74357,38.911625,-94.53086,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017157669,
+2017156973,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/18/2017,03:39 PM,12,2017,RESOL,Y,01/17/2018,1,2018,30,3507 TRACY AVE,"3507 TRACY AVE
+64109
+(39.062539, -94.569095)",64109,Squier Park,Jackson,3,Central,134722,39.062539,-94.569095,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017156973,
+2017155395,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/13/2017,02:53 PM,12,2017,RESOL,Y,01/04/2018,1,2018,22,3255 N HOLMES ST,"3255 N HOLMES ST
+64116
+(39.156408, -94.570274)",64116,River View,Clay,4,Shoal Creek,85487,39.156408,-94.570274,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017155395,
+2017150872,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/02/2017,06:49 AM,12,2017,RESOL,Y,12/20/2017,12,2017,18,3707 WABASH AVE,"3707 WABASH AVE
+64128
+(39.059031, -94.554184)",64128,Ivanhoe Northeast,Jackson,3,East,134287,39.059031,-94.554184,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017150872,
+2017151495,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/04/2017,04:15 PM,12,2017,RESOL,Y,01/04/2018,1,2018,31,810 W 13TH ST,"810 W 13TH ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017151495,
+2017151404,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,12/04/2017,02:43 PM,12,2017,RESOL,Y,12/20/2017,12,2017,16,311 W 72ND ST,"311 W 72ND ST
+64114
+(38.997067, -94.593194)",64114,Tower Homes,Jackson,6,Metro,112469,38.997067,-94.593194,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017151404,
+2017149109,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/28/2017,04:09 PM,11,2017,RESOL,Y,12/20/2017,12,2017,22,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017149109,
+2017149036,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/28/2017,02:43 PM,11,2017,RESOL,N,12/01/2017,12,2017,3,2201 MANCHESTER TRFY,"2201 MANCHESTER TRFY
+64126
+(39.083302, -94.491819)",64126,Blue Valley Industrial,Jackson,3,East,46565,39.083302,-94.491819,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017149036,
+2017149028,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/28/2017,02:35 PM,11,2017,RESOL,Y,12/20/2017,12,2017,22,3301 N HOLMES ST,"3301 N HOLMES ST
+64116
+(39.15395, -94.568416)",64116,River View,Clay,4,Shoal Creek,85488,39.15395,-94.568416,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017149028,
+2017149011,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/28/2017,02:14 PM,11,2017,RESOL,Y,12/20/2017,12,2017,22,1100 SUMMIT ST,"1100 SUMMIT ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017149011,
+2017148904,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/28/2017,12:41 PM,11,2017,RESOL,Y,01/04/2018,1,2018,37,9132 WESTERN HILLS DR,"9132 WESTERN HILLS DR
+64114
+(38.961734, -94.598544)",64114,Western Hills,Jackson,6,Metro,152413,38.961734,-94.598544,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017148904,
+2017149389,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/29/2017,11:03 AM,11,2017,RESOL,Y,12/20/2017,12,2017,21,2737 BALES AVE,"2737 BALES AVE
+64128
+(39.075457, -94.541882)",64128,Ingleside,Jackson,3,East,23776,39.075457,-94.541882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017149389,
+2017147804,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/25/2017,10:35 AM,11,2017,RESOL,Y,12/20/2017,12,2017,25,1123 E 49TH ST,"1123 E 49TH ST
+64110
+(39.037667, -94.571909)",64110,Eastern 49-63,Jackson,5,Metro,225496,39.037667,-94.571909,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017147804,
+2017147982,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/27/2017,08:41 AM,11,2017,RESOL,Y,12/20/2017,12,2017,23,1050 E 16TH ST,"1050 E 16TH ST
+64108
+(39.094447, -94.570705)",64108,Hospital Hill,Jackson,3,Central,122846,39.094447,-94.570705,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017147982,
+2017147313,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/21/2017,10:00 PM,11,2017,RESOL,N,11/22/2017,11,2017,1,4414 E 10TH ST,"4414 E 10TH ST
+64127
+(39.101169, -94.529541)",64127,Lykins,Jackson,3,East,8311,39.101169,-94.529541,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017147313,
+2017147143,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/21/2017,01:41 PM,11,2017,RESOL,Y,12/20/2017,12,2017,29,8502 HOLMES ST,"8502 HOLMES ST
+64131
+(38.971954, -94.583882)",64131,Santa Fe Hills,Jackson,6,Metro,149408,38.971954,-94.583882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017147143,
+2017147583,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/22/2017,01:08 PM,11,2017,RESOL,Y,12/20/2017,12,2017,28,4402 CLOON AVE,"4402 CLOON AVE
+64127
+(39.100289, -94.53003)",64127,Lykins,Jackson,3,East,8347,39.100289,-94.53003,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017147583,
+2017146124,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/17/2017,04:18 PM,11,2017,RESOL,Y,12/20/2017,12,2017,33,4337 TROOST AVE,"4337 TROOST AVE
+64110
+(39.047479, -94.57222)",64110,Manheim Park,Jackson,3,Central,137876,39.047479,-94.57222,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017146124,
+2017146216,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,11/18/2017,07:57 AM,11,2017,RESOL,N,12/05/2017,12,2017,17,9300 OLD SANTA FE RD,"9300 OLD SANTA FE RD
+64138
+(38.955465, -94.5084)",64138,Loma Vista,Jackson,5,South,56296,38.955465,-94.5084,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017146216,
+2017144973,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/15/2017,01:51 PM,11,2017,RESOL,Y,12/05/2017,12,2017,20,2459 SUMMIT ST,"2459 SUMMIT ST
+64108
+(39.083034, -94.593552)",64108,Westside South,Jackson,4,Central,124247,39.083034,-94.593552,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017144973,
+2017144388,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/14/2017,01:45 PM,11,2017,RESOL,Y,12/05/2017,12,2017,21,6900 E 12TH ST,"6900 E 12TH ST
+64126
+(39.098514, -94.501917)",64126,Sheffield,Jackson,4,East,5324,39.098514,-94.501917,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017144388,
+2017143467,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/13/2017,09:38 AM,11,2017,RESOL,Y,11/28/2017,11,2017,15,4414 E 10TH ST,"4414 E 10TH ST
+64127
+(39.101169, -94.529541)",64127,Lykins,Jackson,3,East,8311,39.101169,-94.529541,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017143467,
+2017144213,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/14/2017,11:21 AM,11,2017,RESOL,Y,12/05/2017,12,2017,21,424 DONNELLY AVE,"424 DONNELLY AVE
+64125
+(39.108419, -94.484656)",64125,North Blue Ridge,Jackson,4,East,46763,39.108419,-94.484656,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017144213,
+2017142896,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/09/2017,11:03 AM,11,2017,RESOL,Y,11/28/2017,11,2017,19,10700 N PLATTE PURCHASE DR,"10700 N PLATTE PURCHASE DR
+64154
+(39.285771, -94.604965)",64154,KCI & 2nd Creek,Platte,2,North,171437,39.285771,-94.604965,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017142896,
+2017142448,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/08/2017,12:29 PM,11,2017,RESOL,Y,11/28/2017,11,2017,20,2604 E 25TH ST,"2604 E 25TH ST
+64127
+(39.080856, -94.551951)",64127,Washington Wheatley,Jackson,3,East,16245,39.080856,-94.551951,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017142448,
+2017142304,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/08/2017,09:57 AM,11,2017,RESOL,Y,11/28/2017,11,2017,20,3821 BLUE RIDGE CTOF,"3821 BLUE RIDGE
+CTOF 64133
+(39.052948, -94.473292)",64133,Ashland Ridge,Jackson,3,East,48254,39.052948,-94.473292,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017142304,
+2017142092,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/07/2017,03:45 PM,11,2017,RESOL,Y,11/28/2017,11,2017,21,4501 RAYTOWN RD,"4501 RAYTOWN RD
+64129
+(39.043993, -94.485124)",64129,,Jackson,3,East,50320,39.043993,-94.485124,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017142092,
+2017141476,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,03:55 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,1230 BENTON BLVD,"1230 BENTON BLVD
+64127
+(39.097408, -94.544911)",64127,Independence Plaza,Jackson,3,East,11031,39.097408,-94.544911,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141476,
+2017141472,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,03:48 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,2702 PEERY AVE,"2702 PEERY AVE
+64127
+(39.099983, -94.550091)",64127,Independence Plaza,Jackson,3,East,10683,39.099983,-94.550091,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141472,
+2017141408,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,02:43 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,6224 E 16TH ST,"6224 E 16TH ST
+64126
+(39.092258, -94.508793)",64126,East Blue Valley,Jackson,3,East,6749,39.092258,-94.508793,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141408,
+2017141407,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,02:41 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,815 W 12TH ST,"815 W 12TH ST
+64105
+(39.10012, -94.595343)",64105,,Jackson,4,Central,123363,39.10012,-94.595343,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141407,
+2017141402,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,02:32 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,8300 WILSON AVE,"8300 WILSON AVE
+64120
+(39.10975, -94.485249)",64120,North Blue Ridge,Jackson,4,East,46751,39.10975,-94.485249,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141402,
+2017141343,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/06/2017,01:48 PM,11,2017,RESOL,Y,11/28/2017,11,2017,22,11100 E 43RD ST,"11100 E 43RD ST
+64133
+(39.045438, -94.449712)",64133,Riss Lake,Jackson,3,East,255237,39.045438,-94.449712,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141343,
+2017141150,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,11/06/2017,10:45 AM,11,2017,RESOL,N,11/28/2017,11,2017,22,7401 NE PARVIN RD,"7401 NE PARVIN RD
+64117
+(39.167881, -94.495256)",64117,Hill Haven,Clay,1,Shoal Creek,75313,39.167881,-94.495256,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017141150,
+2017140888,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/05/2017,11:52 PM,11,2017,RESOL,Y,11/28/2017,11,2017,23,1100 SUMMIT ST,"1100 SUMMIT ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140888,
+2017140884,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/05/2017,11:26 PM,11,2017,RESOL,Y,11/28/2017,11,2017,23,616 WEST PENNWAY,"616 WEST PENNWAY
+64108
+(39.088006, -94.592193)",64108,Westside North,Jackson,4,Central,123842,39.088006,-94.592193,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140884,
+2017140869,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/05/2017,08:25 PM,11,2017,RESOL,Y,11/28/2017,11,2017,23,3005 PEERY AVE,"3005 PEERY AVE
+64127
+(39.099355, -94.546813)",64127,Independence Plaza,Jackson,3,East,10894,39.099355,-94.546813,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140869,
+2017140640,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/03/2017,01:37 PM,11,2017,RESOL,Y,11/28/2017,11,2017,25,4141 RAYTOWN RD,"4141 RAYTOWN RD
+64129
+(39.049363, -94.495651)",64129,,Jackson,3,East,47911,39.049363,-94.495651,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140640,
+2017140317,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/02/2017,04:15 PM,11,2017,RESOL,Y,11/21/2017,11,2017,19,2600 COLORADO AVE,"2600 COLORADO AVE
+64127
+(39.077791, -94.521677)",64127,East Community Team South,Jackson,3,East,20439,39.077791,-94.521677,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140317,
+2017140240,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/02/2017,02:46 PM,11,2017,RESOL,Y,11/21/2017,11,2017,19,300 E 38TH ST,"300 E 38TH ST
+64111
+(39.059979, -94.581792)",64111,Central Hyde Park,Jackson,4,Central,132077,39.059979,-94.581792,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140240,
+2017140201,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,11/02/2017,01:46 PM,11,2017,RESOL,Y,11/21/2017,11,2017,19,1550 MANCHESTER AVE,"1550 MANCHESTER AVE
+64126
+(39.092816, -94.492903)",64126,Blue Valley Industrial,Jackson,3,East,46493,39.092816,-94.492903,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017140201,
+2017139303,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/31/2017,03:41 PM,10,2017,RESOL,Y,11/21/2017,11,2017,21,7612 E 48TH TER,"7612 E 48TH TER
+64129
+(39.036811, -94.49592)",64129,Eastwood Hills East,Jackson,3,East,50537,39.036811,-94.49592,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017139303,
+2017139054,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/31/2017,10:49 AM,10,2017,RESOL,Y,11/21/2017,11,2017,21,11104 BLUE RIDGE BLVD,"11104 BLUE RIDGE BLVD
+64134
+(38.920413, -94.510936)",64134,Hickman Mills,Jackson,6,South,60418,38.920413,-94.510936,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017139054,
+2017136927,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/25/2017,02:18 PM,10,2017,RESOL,Y,11/21/2017,11,2017,27,1321 SPRUCE AVE,"1321 SPRUCE AVE
+64127
+(39.09606, -94.531587)",64127,East Community Team North,Jackson,3,East,8466,39.09606,-94.531587,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017136927,
+2017135143,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,10/20/2017,05:20 PM,10,2017,RESOL,N,11/08/2017,11,2017,19,7542 MAIN ST,"7542 MAIN ST
+64114
+(38.990563, -94.590092)",64114,Tower Homes,Jackson,6,Metro,118187,38.990563,-94.590092,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017135143,
+2017134997,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/20/2017,01:58 PM,10,2017,RESOL,Y,11/08/2017,11,2017,19,1015 E 19TH ST,"1015 E 19TH ST
+64108
+(39.089823, -94.570937)",64108,Hospital Hill,Jackson,3,Central,124617,39.089823,-94.570937,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017134997,
+2017135961,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/23/2017,06:17 PM,10,2017,RESOL,Y,11/08/2017,11,2017,16,900 BEARDSLEY RD,"900 BEARDSLEY RD
+64105
+(39.102048, -94.594693)",64105,,Jackson,4,Central,122940,39.102048,-94.594693,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017135961,
+2017135928,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/23/2017,05:13 PM,10,2017,RESOL,Y,11/08/2017,11,2017,16,3527 KENWOOD AVE,"3527 KENWOOD AVE
+64109
+(39.062324, -94.577244)",64109,Central Hyde Park,Jackson,4,Central,131809,39.062324,-94.577244,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017135928,
+2017133707,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,10/18/2017,10:31 AM,10,2017,RESOL,N,11/08/2017,11,2017,21,512 E LINWOOD BLVD,"512 E LINWOOD BLVD
+64109
+(39.069187, -94.578143)",64109,North Hyde Park,Jackson,4,Central,128247,39.069187,-94.578143,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017133707,
+2017133706,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/18/2017,10:30 AM,10,2017,RESOL,Y,11/08/2017,11,2017,21,3130 GILLHAM RD,"3130 GILLHAM RD
+64109
+(39.069802, -94.578106)",64109,North Hyde Park,Jackson,4,Central,128248,39.069802,-94.578106,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017133706,
+2017133534,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/17/2017,09:35 PM,10,2017,RESOL,Y,11/03/2017,11,2017,17,8601 N WYANDOTTE ST,"8601 N WYANDOTTE ST
+64155
+(39.249591, -94.581278)",64155,Sherrydale,Clay,2,North,92926,39.249591,-94.581278,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017133534,
+2017132145,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/15/2017,09:15 PM,10,2017,RESOL,Y,11/03/2017,11,2017,19,1515 E 9TH ST,"1515 E 9TH ST
+64106
+(39.102474, -94.562543)",64106,Parkview,Jackson,3,Central,12161,39.102474,-94.562543,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017132145,
+2017129111,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/06/2017,04:21 PM,10,2017,RESOL,Y,11/03/2017,11,2017,28,1111 EWING AVE,"1111 EWING AVE
+64126
+(39.098514, -94.501917)",64126,Sheffield,Jackson,4,East,5324,39.098514,-94.501917,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017129111,
+2017128973,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,10/06/2017,01:28 PM,10,2017,RESOL,N,10/06/2017,10,2017,0,2837 E 6TH ST,"2837 E 6TH ST
+64124
+(39.105009, -94.546526)",64124,Independence Plaza,Jackson,3,East,10556,39.105009,-94.546526,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017128973,
+2017128586,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/05/2017,03:41 PM,10,2017,RESOL,Y,10/26/2017,10,2017,21,815 W 12TH ST,"815 W 12TH ST
+64105
+(39.10012, -94.595343)",64105,,Jackson,4,Central,123363,39.10012,-94.595343,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017128586,
+2017127114,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/03/2017,09:44 AM,10,2017,RESOL,Y,10/26/2017,10,2017,23,11100 E 43RD ST,"11100 E 43RD ST
+64133
+(39.045438, -94.449712)",64133,Riss Lake,Jackson,3,East,255237,39.045438,-94.449712,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017127114,
+2017126998,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/03/2017,07:20 AM,10,2017,RESOL,Y,10/26/2017,10,2017,23,100 E PERSHING RD,"100 E PERSHING RD
+64108
+(39.084912, -94.58264)",64108,Crown Center,Jackson,4,Central,125077,39.084912,-94.58264,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017126998,
+2017128092,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/04/2017,05:05 PM,10,2017,RESOL,Y,10/26/2017,10,2017,22,6200 TROOST AVE,"6200 TROOST AVE
+64110
+(39.014606, -94.57486)",64110,Western 49-63,Jackson,6,Metro,106384,39.014606,-94.57486,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017128092,
+2017126547,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/02/2017,11:19 AM,10,2017,RESOL,Y,10/26/2017,10,2017,24,901 W 43RD ST,"901 W 43RD ST
+64111
+(39.049494, -94.597315)",64111,West Plaza,Jackson,4,Central,140581,39.049494,-94.597315,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017126547,
+2017128835,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/06/2017,10:44 AM,10,2017,RESOL,Y,10/26/2017,10,2017,20,9913 E 38TH ST,"9913 E 38TH ST
+64133
+(39.054279, -94.464848)",64133,Ashland Ridge,Jackson,3,East,48066,39.054279,-94.464848,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017128835,
+2017126882,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/02/2017,04:01 PM,10,2017,RESOL,Y,10/26/2017,10,2017,24,9801 E US 40 HWY,"9801 E US 40 HWY
+64133
+(39.055331, -94.463829)",64133,Ashland Ridge,Jackson,3,East,48038,39.055331,-94.463829,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017126882,
+2017126620,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,10/02/2017,12:17 PM,10,2017,RESOL,Y,10/26/2017,10,2017,24,5000 EASTERN AVE,"5000 EASTERN AVE
+64129
+(39.031525, -94.499414)",64129,Eastwood Hills East,Jackson,3,Metro,54383,39.031525,-94.499414,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017126620,
+2017125975,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/29/2017,01:02 PM,9,2017,RESOL,Y,10/16/2017,10,2017,17,2522 NORTON AVE,"2522 NORTON AVE
+64127
+(39.079279, -94.535428)",64127,East Community Team South,Jackson,3,East,17578,39.079279,-94.535428,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017125975,
+2017125596,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/28/2017,03:37 PM,9,2017,RESOL,Y,10/16/2017,10,2017,18,3900 GILLHAM RD,"3900 GILLHAM RD
+64110
+(39.05501, -94.580083)",64110,Southmoreland,Jackson,4,Central,133307,39.05501,-94.580083,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017125596,
+2017124487,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/26/2017,06:03 PM,9,2017,RESOL,Y,10/16/2017,10,2017,20,3443 WABASH AVE,"3443 WABASH AVE
+64128
+(39.06287, -94.554013)",64128,Key Coalition,Jackson,3,East,126482,39.06287,-94.554013,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017124487,
+2017124046,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/26/2017,09:51 AM,9,2017,RESOL,Y,10/16/2017,10,2017,20,300 E 38TH ST,"300 E 38TH ST
+64111
+(39.059979, -94.581792)",64111,Central Hyde Park,Jackson,4,Central,132077,39.059979,-94.581792,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017124046,
+2017123775,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/25/2017,04:33 PM,9,2017,RESOL,Y,10/16/2017,10,2017,21,4151 STERLING AVE,"4151 STERLING AVE
+64133
+(39.046517, -94.447108)",64133,Sterling Acres,Jackson,3,East,234398,39.046517,-94.447108,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017123775,
+2017122694,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/22/2017,10:45 AM,9,2017,RESOL,Y,10/16/2017,10,2017,24,1066 E 16TH ST,"1066 E 16TH ST
+64108
+(39.094447, -94.570705)",64108,Hospital Hill,Jackson,3,Central,122846,39.094447,-94.570705,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017122694,
+2017122999,TWIR,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/22/2017,04:37 PM,9,2017,RESOL,Y,10/16/2017,10,2017,24,900 BEARDSLEY RD,"900 BEARDSLEY RD
+64105
+(39.102048, -94.594693)",64105,,Jackson,4,Central,122940,39.102048,-94.594693,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017122999,
+2017120478,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/18/2017,06:10 PM,9,2017,RESOL,N,09/19/2017,9,2017,1,4151 STERLING AVE,"4151 STERLING AVE
+64133
+(39.046517, -94.447108)",64133,Sterling Acres,Jackson,3,East,234398,39.046517,-94.447108,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017120478,
+2017119224,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/15/2017,09:40 AM,9,2017,RESOL,Y,10/02/2017,10,2017,17,8502 HOLMES ST,"8502 HOLMES ST
+64131
+(38.971954, -94.583882)",64131,Santa Fe Hills,Jackson,6,Metro,149408,38.971954,-94.583882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017119224,
+2017119854,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/18/2017,07:32 AM,9,2017,RESOL,Y,10/05/2017,10,2017,17,2842 MONROE AVE,"2842 MONROE AVE
+64128
+(39.073362, -94.540342)",64128,Ingleside,Jackson,3,East,23729,39.073362,-94.540342,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017119854,
+2017119820,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,09/18/2017,12:55 AM,9,2017,RESOL,N,10/05/2017,10,2017,17,4400 NE CHOUTEAU TRFY,"4400 NE CHOUTEAU TRFY
+64117
+(39.172846, -94.535986)",64117,Chaumiere,Clay,1,Shoal Creek,220957,39.172846,-94.535986,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017119820,
+2017117930,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/13/2017,07:35 AM,9,2017,RESOL,Y,10/02/2017,10,2017,19,400 E 11TH ST,"400 E 11TH ST
+64106
+(39.101576, -94.57763)",64106,CBD Downtown,Jackson,4,Central,254162,39.101576,-94.57763,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017117930,
+2017117854,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/12/2017,07:02 PM,9,2017,RESOL,Y,10/02/2017,10,2017,20,1319 INDIANA AVE,"1319 INDIANA AVE
+64127
+(39.096463, -94.541971)",64127,Lykins,Jackson,3,East,11464,39.096463,-94.541971,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017117854,
+2017118977,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/14/2017,03:17 PM,9,2017,RESOL,Y,10/02/2017,10,2017,18,3301 BROOKLYN AVE,"3301 BROOKLYN AVE
+64109
+(39.066117, -94.557314)",64109,Key Coalition,Jackson,3,Central,126518,39.066117,-94.557314,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017118977,
+2017116677,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/11/2017,10:25 AM,9,2017,RESOL,Y,09/19/2017,9,2017,8,4115 E 7TH ST,"4115 E 7TH ST
+64124
+(39.103431, -94.534053)",64124,Lykins,Jackson,3,East,9628,39.103431,-94.534053,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017116677,
+2017116022,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,09/08/2017,02:41 PM,9,2017,RESOL,N,09/08/2017,9,2017,0,1600 INDEPENDENCE AVE,"1600 INDEPENDENCE AVE
+64106
+(39.107191, -94.5627)",64106,Pendleton Heights,Jackson,3,Central,39791,39.107191,-94.5627,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017116022,
+2017115462,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/07/2017,04:00 PM,9,2017,RESOL,Y,10/02/2017,10,2017,25,2323 GRAND BLVD,"2323 GRAND BLVD
+64108
+(39.085934, -94.581094)",64108,Crown Center,Jackson,4,Central,125050,39.085934,-94.581094,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017115462,
+2017115879,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/08/2017,12:17 PM,9,2017,RESOL,Y,10/02/2017,10,2017,24,6210 E TRUMAN RD,"6210 E TRUMAN RD
+64126
+(39.094178, -94.509687)",64126,East Blue Valley,Jackson,3,East,6235,39.094178,-94.509687,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017115879,
+2017114795,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,09/06/2017,04:19 PM,9,2017,RESOL,N,09/06/2017,9,2017,0,11100 VIEW HIGH DR,"11100 VIEW HIGH DR
+64134
+(38.919212, -94.460335)",64134,Longview,Jackson,6,South,71143,38.919212,-94.460335,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017114795,
+2017114254,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/06/2017,08:15 AM,9,2017,RESOL,Y,09/19/2017,9,2017,13,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017114254,
+2017114467,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,09/06/2017,12:06 PM,9,2017,RESOL,Y,10/02/2017,10,2017,26,2131 E 82ND TER,"2131 E 82ND TER
+64132
+(38.977397, -94.562708)",64132,Marlborough Heights/Marlborough Pride,Jackson,5,Metro,117268,38.977397,-94.562708,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017114467,
+2017111568,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/29/2017,06:15 PM,8,2017,RESOL,Y,09/18/2017,9,2017,20,100 E PERSHING RD,"100 E PERSHING RD
+64108
+(39.084912, -94.58264)",64108,Crown Center,Jackson,4,Central,125077,39.084912,-94.58264,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017111568,
+2017110988,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/29/2017,08:58 AM,8,2017,RESOL,Y,09/18/2017,9,2017,20,1708 HOLLY ST,"1708 HOLLY ST
+64102
+(39.092921, -94.598349)",64102,Westside North,Jackson,4,Central,123936,39.092921,-94.598349,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017110988,
+2017111865,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,08/30/2017,11:25 AM,8,2017,RESOL,N,08/30/2017,8,2017,0,657 NE RUSSELL RD,"657 NE RUSSELL RD
+64116
+(39.166508, -94.572483)",64116,River View,Clay,4,Shoal Creek,85052,39.166508,-94.572483,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017111865,
+2017110396,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/28/2017,11:55 AM,8,2017,RESOL,Y,09/18/2017,9,2017,21,4915 E 39TH PL,"4915 E 39TH PL
+64130
+(39.054296, -94.526153)",64130,Vineyard,Jackson,3,East,31538,39.054296,-94.526153,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017110396,
+2017110253,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/28/2017,10:33 AM,8,2017,RESOL,Y,09/18/2017,9,2017,21,101 N BELMONT BLVD,"101 N BELMONT BLVD
+64123
+(39.114824, -94.507841)",64123,,Jackson,4,East,45468,39.114824,-94.507841,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017110253,
+2017108643,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/24/2017,11:15 AM,8,2017,RESOL,Y,09/18/2017,9,2017,25,2622 WOODLAND AVE,"2622 WOODLAND AVE
+64108
+(39.078378, -94.561952)",64108,Wendell Phillips,Jackson,3,Central,14036,39.078378,-94.561952,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017108643,
+2017109340,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/25/2017,10:25 AM,8,2017,RESOL,Y,09/18/2017,9,2017,24,3010 VAN BRUNT BLVD,"3010 VAN BRUNT BLVD
+64128
+(39.070346, -94.521383)",64128,Knoches Park,Jackson,3,East,21870,39.070346,-94.521383,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017109340,
+2017107362,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/22/2017,04:23 PM,8,2017,RESOL,Y,09/18/2017,9,2017,27,7749 WORNALL RD,"7749 WORNALL RD
+64114
+(38.987163, -94.594049)",64114,Tower Homes,Jackson,6,Metro,118346,38.987163,-94.594049,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017107362,
+2017106930,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,08/22/2017,11:09 AM,8,2017,RESOL,N,09/18/2017,9,2017,27,6512 WORNALL RD,"6512 WORNALL RD
+64113
+(39.009266, -94.594705)",64113,Armour Fields,Jackson,6,Metro,109372,39.009266,-94.594705,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017106930,
+2017105903,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/21/2017,09:05 AM,8,2017,RESOL,Y,09/18/2017,9,2017,28,1321 SPRUCE AVE,"1321 SPRUCE AVE
+64127
+(39.09606, -94.531587)",64127,East Community Team North,Jackson,3,East,8466,39.09606,-94.531587,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017105903,
+2017104866,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/17/2017,01:26 PM,8,2017,RESOL,Y,08/31/2017,8,2017,14,2415 BRIGHTON AVE,"2415 BRIGHTON AVE
+64127
+(39.081127, -94.524304)",64127,East Community Team South,Jackson,3,East,20258,39.081127,-94.524304,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017104866,
+2017104862,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/17/2017,01:20 PM,8,2017,RESOL,Y,08/31/2017,8,2017,14,3011 VAN BRUNT BLVD,"3011 VAN BRUNT BLVD
+64128
+(39.070534, -94.52016)",64128,South Blue Valley,Jackson,3,East,22006,39.070534,-94.52016,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017104862,
+2017103687,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/15/2017,04:17 PM,8,2017,RESOL,Y,08/31/2017,8,2017,16,4316 E 9TH ST,"4316 E 9TH ST
+64124
+(39.102153, -94.530682)",64124,Lykins,Jackson,3,East,8213,39.102153,-94.530682,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017103687,
+2017102079,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/11/2017,02:49 PM,8,2017,RESOL,Y,08/31/2017,8,2017,20,400 E 11TH ST,"400 E 11TH ST
+64106
+(39.101576, -94.57763)",64106,CBD Downtown,Jackson,4,Central,254162,39.101576,-94.57763,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017102079,
+2017102041,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/11/2017,02:15 PM,8,2017,RESOL,Y,08/31/2017,8,2017,20,900 HARRISON ST,"900 HARRISON ST
+64106
+(39.102579, -94.571413)",64106,Paseo West,Jackson,3,Central,12679,39.102579,-94.571413,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017102041,
+2017100736,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/09/2017,01:38 PM,8,2017,RESOL,Y,08/28/2017,8,2017,19,205 N MONROE AVE,"205 N MONROE AVE
+64123
+(39.114363, -94.536942)",64123,Scarritt Point,Jackson,4,East,40501,39.114363,-94.536942,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017100736,
+2017100930,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/09/2017,04:25 PM,8,2017,RESOL,Y,08/28/2017,8,2017,19,4115 E 7TH ST,"4115 E 7TH ST
+64124
+(39.103431, -94.534053)",64124,Lykins,Jackson,3,East,9628,39.103431,-94.534053,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017100930,
+2017100468,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/09/2017,09:57 AM,8,2017,RESOL,Y,08/28/2017,8,2017,19,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017100468,
+2017099249,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/07/2017,03:22 PM,8,2017,RESOL,Y,08/28/2017,8,2017,21,13055 STATE LINE RD,"13055 STATE LINE RD
+64145
+(38.890601, -94.607334)",64145,Martin City,Jackson,6,South,221701,38.890601,-94.607334,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017099249,
+2017099433,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/07/2017,05:32 PM,8,2017,RESOL,Y,08/28/2017,8,2017,21,4151 STERLING AVE,"4151 STERLING AVE
+64133
+(39.046517, -94.447108)",64133,Sterling Acres,Jackson,3,East,234398,39.046517,-94.447108,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017099433,
+2017098120,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,08/04/2017,01:24 PM,8,2017,RESOL,N,08/28/2017,8,2017,24,600 E 3RD ST,"600 E 3RD ST
+64106
+(39.111726, -94.576934)",64106,Columbus Park Industrial,Jackson,4,Central,258678,39.111726,-94.576934,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017098120,
+2017097627,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/03/2017,04:10 PM,8,2017,RESOL,Y,08/28/2017,8,2017,25,5615 BONITA AVE,"5615 BONITA AVE
+64128
+(39.073587, -94.517358)",64128,South Blue Valley,Jackson,3,East,21621,39.073587,-94.517358,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017097627,
+2017095989,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,08/01/2017,01:25 PM,8,2017,RESOL,Y,08/28/2017,8,2017,27,5407 E 29TH ST,"5407 E 29TH ST
+64128
+(39.072211, -94.51986)",64128,South Blue Valley,Jackson,3,East,21948,39.072211,-94.51986,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017095989,
+2017093331,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/27/2017,11:41 AM,7,2017,RESOL,N,07/31/2017,7,2017,4,8502 HOLMES ST,"8502 HOLMES ST
+64131
+(38.971954, -94.583882)",64131,Santa Fe Hills,Jackson,6,Metro,149408,38.971954,-94.583882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017093331,
+2017093497,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/27/2017,01:31 PM,7,2017,RESOL,Y,08/28/2017,8,2017,32,718 MCGEE ST,"718 MCGEE ST
+64106
+(39.104831, -94.579825)",64106,CBD Downtown,Jackson,4,Central,12720,39.104831,-94.579825,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017093497,
+2017092772,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/26/2017,03:17 PM,7,2017,RESOL,N,07/31/2017,7,2017,5,3454 PROSPECT AVE,"3454 PROSPECT AVE
+64128
+(39.062847, -94.553557)",64128,Key Coalition,Jackson,3,East,126471,39.062847,-94.553557,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017092772,
+2017092540,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/26/2017,11:14 AM,7,2017,RESOL,N,07/31/2017,7,2017,5,100 E PERSHING RD,"100 E PERSHING RD
+64108
+(39.084912, -94.58264)",64108,Crown Center,Jackson,4,Central,125077,39.084912,-94.58264,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017092540,
+2017091598,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/25/2017,07:43 AM,7,2017,RESOL,N,07/31/2017,7,2017,6,501 W 6TH ST,"501 W 6TH ST
+64105
+(39.106441, -94.590163)",64105,Quality Hill,Jackson,4,Central,122896,39.106441,-94.590163,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017091598,
+2017091353,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/24/2017,03:28 PM,7,2017,RESOL,Y,08/28/2017,8,2017,35,9913 E 38TH ST,"9913 E 38TH ST
+64133
+(39.054279, -94.464848)",64133,Ashland Ridge,Jackson,3,East,48066,39.054279,-94.464848,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017091353,
+2017089707,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/20/2017,01:42 PM,7,2017,RESOL,N,07/26/2017,7,2017,6,7601 E 58TH ST,"7601 E 58TH ST
+64129
+(39.019351, -94.496531)",64129,Lewis Heights,Jackson,5,Metro,51735,39.019351,-94.496531,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017089707,
+2017089542,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/20/2017,10:10 AM,7,2017,RESOL,N,07/26/2017,7,2017,6,101 DELAWARE ST,"101 DELAWARE ST
+64105
+(39.111712, -94.584756)",64105,River Market,Jackson,4,Central,255809,39.111712,-94.584756,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017089542,
+2017088701,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,07/18/2017,11:14 PM,7,2017,RESOL,Y,08/31/2017,8,2017,44,3625 WABASH AVE,"3625 WABASH AVE
+64128
+(39.060069, -94.554158)",64128,Ivanhoe Northeast,Jackson,3,East,133815,39.060069,-94.554158,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017088701,
+2017087756,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/17/2017,02:11 PM,7,2017,RESOL,Y,08/31/2017,8,2017,45,800 JEFFERSON ST,"800 JEFFERSON ST
+64105
+(39.105611, -94.59159)",64105,Quality Hill,Jackson,4,Central,228088,39.105611,-94.59159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017087756,
+2017087260,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/17/2017,07:38 AM,7,2017,RESOL,Y,07/26/2017,7,2017,9,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017087260,
+2017086865,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,07/14/2017,02:02 PM,7,2017,RESOL,N,07/26/2017,7,2017,12,2211 GRAND BLVD A,"2211 GRAND BLVD
+A 64108
+(39.085934, -94.581094)",64108,Crown Center,Jackson,4,Central,125050,39.085934,-94.581094,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017086865,
+2017085575,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/12/2017,01:31 PM,7,2017,RESOL,Y,07/31/2017,7,2017,19,11100 E 43RD ST,"11100 E 43RD ST
+64133
+(39.045438, -94.449712)",64133,Riss Lake,Jackson,3,East,255237,39.045438,-94.449712,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017085575,
+2017085374,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/12/2017,10:42 AM,7,2017,RESOL,Y,08/31/2017,8,2017,50,3926 GARFIELD AVE,"3926 GARFIELD AVE
+64130
+(39.054647, -94.559761)",64130,Ivanhoe Southeast,Jackson,3,Central,136593,39.054647,-94.559761,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017085374,
+2017084956,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/11/2017,02:13 PM,7,2017,RESOL,Y,07/25/2017,7,2017,14,8623 WINNER RD,"8623 WINNER RD
+64125
+(39.107133, -94.480504)",64125,North Blue Ridge,Jackson,4,East,46958,39.107133,-94.480504,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017084956,
+2017085472,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/12/2017,12:04 PM,7,2017,RESOL,Y,08/31/2017,8,2017,50,4201 RAYTOWN RD,"4201 RAYTOWN RD
+64129
+(39.047784, -94.492329)",64129,,Jackson,3,East,47925,39.047784,-94.492329,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017085472,
+2017084534,WEB,KCPD,KCPD-Parking Control-,Public Safety-Police-Other,Public Safety,Police,Other,07/10/2017,10:05 PM,7,2017,RESOL,N,07/12/2017,7,2017,2,8507 N WAYLAND AVE,"8507 N WAYLAND AVE
+64153
+(39.249408, -94.692204)",64153,KCI & 2nd Creek,Platte,2,North,168223,39.249408,-94.692204,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017084534,
+2017085123,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,07/11/2017,05:03 PM,7,2017,RESOL,N,07/12/2017,7,2017,1,543 VAN BRUNT BLVD,"543 VAN BRUNT BLVD
+64124
+(39.105716, -94.525604)",64124,South Indian Mound,Jackson,4,East,44651,39.105716,-94.525604,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017085123,
+2017083530,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/07/2017,07:02 PM,7,2017,RESOL,Y,07/17/2017,7,2017,10,102 GRAND BLVD,"102 GRAND BLVD
+64106
+(39.112682, -94.581548)",64106,River Market,Jackson,4,Central,39038,39.112682,-94.581548,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083530,
+2017082866,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/06/2017,05:58 PM,7,2017,RESOL,Y,07/17/2017,7,2017,11,800 JEFFERSON ST,"800 JEFFERSON ST
+64105
+(39.105611, -94.59159)",64105,Quality Hill,Jackson,4,Central,228088,39.105611,-94.59159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017082866,
+2017083564,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/07/2017,09:52 PM,7,2017,RESOL,Y,08/31/2017,8,2017,55,3220 N CHERRY ST,"3220 N CHERRY ST
+64116
+(39.154247, -94.573244)",64116,River View,Clay,4,Shoal Creek,85480,39.154247,-94.573244,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083564,
+2017083563,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/07/2017,09:50 PM,7,2017,RESOL,Y,08/31/2017,8,2017,55,3301 N CHERRY ST,"3301 N CHERRY ST
+64116
+(39.155956, -94.57349)",64116,River View,Clay,4,Shoal Creek,85447,39.155956,-94.57349,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083563,
+2017083556,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/07/2017,09:35 PM,7,2017,RESOL,Y,08/31/2017,8,2017,55,3715 NE 46TH ST,"3715 NE 46TH ST
+64117
+(39.177192, -94.533555)",64117,Antioch Acres,Clay,1,Shoal Creek,224862,39.177192,-94.533555,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083556,
+2017083213,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/07/2017,11:52 AM,7,2017,RESOL,Y,07/17/2017,7,2017,10,4636 E 7TH ST,"4636 E 7TH ST
+64124
+(39.103774, -94.526073)",64124,Lykins,Jackson,3,East,7878,39.103774,-94.526073,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083213,
+2017081657,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/05/2017,11:28 AM,7,2017,RESOL,Y,08/31/2017,8,2017,57,1824 BRISTOL AVE,"1824 BRISTOL AVE
+64126
+(39.086625, -94.500544)",64126,Central Blue Valley And Park Tower Gardens,Jackson,3,East,20849,39.086625,-94.500544,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017081657,
+2017081912,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,07/05/2017,02:35 PM,7,2017,RESOL,Y,07/17/2017,7,2017,12,900 BEARDSLEY RD,"900 BEARDSLEY RD
+64105
+(39.102048, -94.594693)",64105,,Jackson,4,Central,122940,39.102048,-94.594693,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017081912,
+2017080506,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/30/2017,04:03 PM,6,2017,RESOL,N,07/10/2017,7,2017,10,100 E PERSHING RD,"100 E PERSHING RD
+64108
+(39.084912, -94.58264)",64108,Crown Center,Jackson,4,Central,125077,39.084912,-94.58264,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017080506,
+2017080362,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/30/2017,01:47 PM,6,2017,RESOL,N,07/10/2017,7,2017,10,200 E 85TH ST,"200 E 85TH ST
+64114
+(38.974993, -94.588841)",64114,Waldo Homes,Jackson,6,Metro,256585,38.974993,-94.588841,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017080362,
+2017078353,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/27/2017,03:56 PM,6,2017,RESOL,Y,07/10/2017,7,2017,13,14923 E US 40 HWY,"14923 E US 40 HWY
+64136
+(39.034189, -94.401123)",64136,Country Valley-Hawthorn Square,Jackson,5,East,260524,39.034189,-94.401123,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017078353,
+2017075778,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,06/22/2017,10:18 PM,6,2017,RESOL,N,06/23/2017,6,2017,1,4311 NE 50TH ST,"4311 NE 50TH ST
+64119
+(39.185224, -94.528251)",64119,Glenhaven,Clay,1,Shoal Creek,81107,39.185224,-94.528251,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017075778,
+2017074139,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/20/2017,10:20 PM,6,2017,RESOL,N,06/23/2017,6,2017,3,3116 OAK ST,"3116 OAK ST
+64111
+(39.070152, -94.58042)",64111,Broadway Gillham,Jackson,4,Central,128206,39.070152,-94.58042,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017074139,
+2017073242,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,06/20/2017,08:00 AM,6,2017,RESOL,N,06/20/2017,6,2017,0,416 E 5TH ST,"416 E 5TH ST
+64106
+(39.109441, -94.578446)",64106,River Market,Jackson,4,Central,39300,39.109441,-94.578446,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017073242,
+2017072042,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/17/2017,02:06 PM,6,2017,RESOL,N,06/23/2017,6,2017,6,4114 E 7TH ST,"4114 E 7TH ST
+64124
+(39.104155, -94.533315)",64124,Lykins,Jackson,3,East,9500,39.104155,-94.533315,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017072042,
+2017071735,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,06/16/2017,02:06 PM,6,2017,RESOL,N,06/23/2017,6,2017,7,3901 E 87TH ST,"3901 E 87TH ST
+64132
+(38.97369, -94.545402)",64132,Marlborough East,Jackson,5,Metro,173002,38.97369,-94.545402,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017071735,
+2017071260,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,06/15/2017,03:34 PM,6,2017,RESOL,N,06/23/2017,6,2017,8,7610 N AVALON ST,"7610 N AVALON ST
+64152
+(39.233254, -94.661058)",64152,Platte Ridge,Platte,2,North,169651,39.233254,-94.661058,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017071260,
+2017069255,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/12/2017,03:18 PM,6,2017,RESOL,Y,06/23/2017,6,2017,11,200 E 85TH ST,"200 E 85TH ST
+64114
+(38.974993, -94.588841)",64114,Waldo Homes,Jackson,6,Metro,256585,38.974993,-94.588841,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017069255,
+2017069175,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/12/2017,02:15 PM,6,2017,RESOL,Y,06/23/2017,6,2017,11,7575 WORNALL RD,"7575 WORNALL RD
+64114
+(38.991013, -94.593382)",64114,Tower Homes,Jackson,6,Metro,118222,38.991013,-94.593382,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017069175,
+2017067514,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/07/2017,11:09 PM,6,2017,RESOL,N,06/13/2017,6,2017,6,600 E 3RD ST,"600 E 3RD ST
+64106
+(39.111726, -94.576934)",64106,Columbus Park Industrial,Jackson,4,Central,258678,39.111726,-94.576934,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017067514,
+2017067755,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/08/2017,12:38 PM,6,2017,RESOL,Y,06/23/2017,6,2017,15,8700 E US 40 HWY,"8700 E US 40 HWY
+64129
+(39.064504, -94.47976)",64129,Western Blue Township,Jackson,3,East,235059,39.064504,-94.47976,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017067755,
+2017066832,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,06/06/2017,05:54 PM,6,2017,RESOL,N,06/14/2017,6,2017,8,1 W 132ND ST,"1 W 132ND ST
+64145
+(38.888632, -94.595661)",64145,Martin City,Jackson,6,South,229080,38.888632,-94.595661,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017066832,
+2017066052,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/05/2017,04:16 PM,6,2017,RESOL,Y,06/23/2017,6,2017,18,3816 CENTRAL ST,"3816 CENTRAL ST
+64111
+(39.057834, -94.589804)",64111,Hanover Place,Jackson,4,Central,132296,39.057834,-94.589804,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017066052,
+2017065926,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,06/05/2017,02:29 PM,6,2017,RESOL,N,06/07/2017,6,2017,2,1820 BRISTOL AVE,"1820 BRISTOL AVE
+64126
+(39.086787, -94.500538)",64126,Central Blue Valley And Park Tower Gardens,Jackson,3,East,20848,39.086787,-94.500538,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017065926,
+2017064036,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/31/2017,04:30 PM,5,2017,RESOL,N,06/01/2017,6,2017,1,311 CHERRY ST,"311 CHERRY ST
+64106
+(39.110866, -94.576952)",64106,Columbus Park Industrial,Jackson,4,Central,39277,39.110866,-94.576952,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017064036,
+2017064144,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/31/2017,07:48 PM,5,2017,RESOL,Y,06/23/2017,6,2017,23,901 W 43RD ST,"901 W 43RD ST
+64111
+(39.049494, -94.597315)",64111,West Plaza,Jackson,4,Central,140581,39.049494,-94.597315,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017064144,
+2017062612,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/29/2017,06:41 PM,5,2017,RESOL,N,06/23/2017,6,2017,25,1822 E 81ST TER,"1822 E 81ST TER
+64132
+(38.979392, -94.56553)",64132,Marlborough Heights/Marlborough Pride,Jackson,5,Metro,117359,38.979392,-94.56553,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017062612,
+2017061926,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/26/2017,08:22 AM,5,2017,RESOL,N,06/23/2017,6,2017,28,5002 N LISTER AVE,"5002 N LISTER AVE
+64119
+(39.185157, -94.523876)",64119,Glenhaven,Clay,1,Shoal Creek,80969,39.185157,-94.523876,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017061926,
+2017059448,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/22/2017,07:22 AM,5,2017,RESOL,Y,06/23/2017,6,2017,32,3026 VAN BRUNT BLVD,"3026 VAN BRUNT BLVD
+64128
+(39.069881, -94.521338)",64128,Knoches Park,Jackson,3,East,21871,39.069881,-94.521338,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017059448,
+2017059445,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/22/2017,07:18 AM,5,2017,RESOL,Y,06/23/2017,6,2017,32,5201 E 35TH ST,"5201 E 35TH ST
+64128
+(39.061451, -94.523104)",64128,Dunbar,Jackson,3,East,30982,39.061451,-94.523104,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017059445,
+2017060130,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/22/2017,08:02 PM,5,2017,RESOL,Y,06/23/2017,6,2017,32,7209 MARSH AVE,"7209 MARSH AVE
+64133
+(38.993155, -94.489951)",64133,Park Farms,Jackson,5,Metro,53245,38.993155,-94.489951,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017060130,
+2017059266,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/20/2017,08:07 AM,5,2017,RESOL,Y,06/23/2017,6,2017,34,205 E 68TH ST,"205 E 68TH ST
+64113
+(39.005769, -94.586253)",64113,Armour Hills,Jackson,6,Metro,111601,39.005769,-94.586253,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017059266,
+2017058631,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/19/2017,08:41 AM,5,2017,RESOL,N,05/19/2017,5,2017,0,6200 ST JOHN AVE,"6200 ST JOHN AVE
+64123
+(39.114824, -94.507841)",64123,,Jackson,4,East,45468,39.114824,-94.507841,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017058631,
+2017056849,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/16/2017,12:43 PM,5,2017,RESOL,Y,06/23/2017,6,2017,38,642 W 39TH ST,"642 W 39TH ST
+64111
+(39.057244, -94.595198)",64111,Valentine,Jackson,4,Central,129888,39.057244,-94.595198,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017056849,
+2017056841,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/16/2017,12:34 PM,5,2017,RESOL,Y,06/23/2017,6,2017,38,2534 VAN BRUNT BLVD,"2534 VAN BRUNT BLVD
+64127
+(39.07859, -94.521698)",64127,East Community Team South,Jackson,3,East,20526,39.07859,-94.521698,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017056841,
+2017057342,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/17/2017,09:58 AM,5,2017,RESOL,Y,06/23/2017,6,2017,37,1600 SUMMIT ST,"1600 SUMMIT ST
+64108
+(39.095401, -94.593632)",64108,Westside North,Jackson,4,Central,243110,39.095401,-94.593632,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017057342,
+2017055544,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/12/2017,04:28 PM,5,2017,RESOL,N,05/15/2017,5,2017,3,6230 E 16TH ST,"6230 E 16TH ST
+64126
+(39.092248, -94.508446)",64126,East Blue Valley,Jackson,3,East,6752,39.092248,-94.508446,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017055544,
+2017053556,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/09/2017,01:07 PM,5,2017,RESOL,N,05/09/2017,5,2017,0,1100 GRAND BLVD,"1100 GRAND BLVD
+64106
+(39.100856, -94.581252)",64106,CBD Downtown,Jackson,4,Central,12764,39.100856,-94.581252,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017053556,
+2017053855,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/09/2017,07:34 PM,5,2017,RESOL,N,05/11/2017,5,2017,2,1424 E 66TH ST,"1424 E 66TH ST
+64131
+(39.008484, -94.569001)",64131,Neighbors United For Action,Jackson,5,Metro,105498,39.008484,-94.569001,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017053855,
+2017052601,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/08/2017,08:27 AM,5,2017,RESOL,Y,06/23/2017,6,2017,46,2136 JEFFERSON ST,"2136 JEFFERSON ST
+64108
+(39.086087, -94.593033)",64108,Westside North,Jackson,4,Central,123928,39.086087,-94.593033,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017052601,
+2017051781,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,05/04/2017,04:43 PM,5,2017,RESOL,Y,06/23/2017,6,2017,50,10901 N BROOKLYN AVE,"10901 N BROOKLYN AVE
+64155
+(39.29119, -94.550095)",64155,Shoal Creek,Clay,1,Shoal Creek,230031,39.29119,-94.550095,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017051781,
+2017051119,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,05/03/2017,03:34 PM,5,2017,RESOL,Y,06/23/2017,6,2017,51,108 GILLIS ST,"108 GILLIS ST
+64120
+(39.1126, -94.572763)",64120,Columbus Park Industrial,Jackson,4,Central,211145,39.1126,-94.572763,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017051119,
+2017047779,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,04/26/2017,05:27 PM,4,2017,RESOL,N,04/27/2017,4,2017,1,11006 BLUE RIDGE BLVD,"11006 BLUE RIDGE BLVD
+64134
+(38.923911, -94.509321)",64134,Stratford Estates,Jackson,6,South,59369,38.923911,-94.509321,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017047779,
+2017046397,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/24/2017,03:18 PM,4,2017,RESOL,Y,06/23/2017,6,2017,60,5418 E 27TH ST,"5418 E 27TH ST
+64127
+(39.076262, -94.519276)",64127,South Blue Valley,Jackson,3,East,20635,39.076262,-94.519276,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017046397,
+2017046232,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/24/2017,01:03 PM,4,2017,RESOL,Y,06/23/2017,6,2017,60,3144 OAK ST,"3144 OAK ST
+64111
+(39.069501, -94.580453)",64111,Broadway Gillham,Jackson,4,Central,128209,39.069501,-94.580453,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017046232,
+2017047530,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,04/26/2017,12:29 PM,4,2017,RESOL,N,04/27/2017,4,2017,1,4747 J C NICHOLS PKWY,"4747 J C NICHOLS PKWY
+64112
+(39.0412, -94.587536)",64112,Country Club Plaza,Jackson,4,Metro,140007,39.0412,-94.587536,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017047530,
+2017045184,TWIR,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/20/2017,05:01 PM,4,2017,RESOL,Y,06/23/2017,6,2017,64,1601 N UNIVERSAL AVE,"1601 N UNIVERSAL AVE
+64120
+(39.137504, -94.502696)",64120,,Jackson,4,East,38394,39.137504,-94.502696,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017045184,
+2017042482,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,04/15/2017,12:58 PM,4,2017,RESOL,N,04/17/2017,4,2017,2,5030 BELMEADE RD,"5030 BELMEADE RD
+64129
+(39.033288, -94.510571)",64129,Eastwood Hills West,Jackson,5,Metro,54187,39.033288,-94.510571,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017042482,
+2017043252,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/18/2017,05:46 AM,4,2017,RESOL,N,04/19/2017,4,2017,1,1015 AGNES AVE,"1015 AGNES AVE
+64127
+(39.100985, -94.5464)",64127,Independence Plaza,Jackson,3,East,10859,39.100985,-94.5464,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017043252,
+2017042948,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/17/2017,01:24 PM,4,2017,RESOL,Y,06/23/2017,6,2017,67,1400 E 12TH ST,"1400 E 12TH ST
+64106
+(39.099557, -94.564901)",64106,Paseo West,Jackson,3,Central,221705,39.099557,-94.564901,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017042948,
+2017042887,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/17/2017,12:30 PM,4,2017,RESOL,Y,06/23/2017,6,2017,67,400 E 22ND ST,"400 E 22ND ST
+64108
+(39.08696, -94.578745)",64108,Hospital Hill,Jackson,4,Central,247799,39.08696,-94.578745,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017042887,
+2017042499,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,04/15/2017,05:25 PM,4,2017,RESOL,N,04/17/2017,4,2017,2,101 SOUTHWEST BLVD,"101 SOUTHWEST BLVD
+64108
+(39.089967, -94.585152)",64108,Crossroads,Jackson,4,Central,124925,39.089967,-94.585152,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017042499,
+2017041690,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/13/2017,01:31 PM,4,2017,RESOL,Y,06/23/2017,6,2017,71,5121 N NORTON AVE,"5121 N NORTON AVE
+64119
+(39.183604, -94.531191)",64119,Glenhaven,Clay,1,Shoal Creek,81148,39.183604,-94.531191,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017041690,
+2017038851,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,04/07/2017,01:27 PM,4,2017,RESOL,Y,06/23/2017,6,2017,77,6909 N HARDESTY AVE,"6909 N HARDESTY AVE
+64119
+(39.219454, -94.516794)",64119,Shoal Creek,Clay,1,Shoal Creek,172160,39.219454,-94.516794,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017038851,
+2017037851,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,04/05/2017,05:27 PM,4,2017,RESOL,Y,06/23/2017,6,2017,79,6003 NORLEDGE AVE,"6003 NORLEDGE AVE
+64123
+(39.115711, -94.511213)",64123,North Indian Mound,Jackson,4,East,45665,39.115711,-94.511213,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017037851,
+2017035347,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/30/2017,01:38 PM,3,2017,RESOL,Y,06/23/2017,6,2017,85,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017035347,
+2017033928,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/27/2017,06:59 PM,3,2017,RESOL,N,03/28/2017,3,2017,1,4315 NE 44TH ST,"4315 NE 44TH ST
+64117
+(39.171754, -94.527674)",64117,Winnwood,Clay,1,Shoal Creek,76261,39.171754,-94.527674,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017033928,
+2017033914,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/27/2017,06:23 PM,3,2017,RESOL,Y,06/23/2017,6,2017,88,4315 NE 44TH ST,"4315 NE 44TH ST
+64117
+(39.171754, -94.527674)",64117,Winnwood,Clay,1,Shoal Creek,76261,39.171754,-94.527674,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017033914,
+2017032318,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/23/2017,11:11 AM,3,2017,RESOL,Y,06/23/2017,6,2017,92,6200 WILSON AVE,"6200 WILSON AVE
+64123
+(39.108306, -94.508524)",64123,,Jackson,4,East,45906,39.108306,-94.508524,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017032318,
+2017031438,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/21/2017,03:37 PM,3,2017,RESOL,N,03/22/2017,3,2017,1,3855 WOODLAND AVE,"3855 WOODLAND AVE
+64109
+(39.055978, -94.562519)",64109,Linwood Homeowners-Ivanhoe,Jackson,3,Central,134120,39.055978,-94.562519,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017031438,
+2017031339,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/21/2017,02:09 PM,3,2017,RESOL,Y,06/23/2017,6,2017,94,1321 WESTPORT RD,"1321 WESTPORT RD
+64111
+(39.04981, -94.602259)",64111,West Plaza,Jackson,4,Central,141056,39.04981,-94.602259,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017031339,
+2017031516,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/21/2017,05:48 PM,3,2017,RESOL,Y,06/23/2017,6,2017,94,2333 LISTER AVE,"2333 LISTER AVE
+64127
+(39.082455, -94.527391)",64127,East Community Team South,Jackson,3,East,19040,39.082455,-94.527391,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017031516,
+2017031513,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/21/2017,05:36 PM,3,2017,RESOL,Y,06/23/2017,6,2017,94,2329 LAWN AVE,"2329 LAWN AVE
+64127
+(39.082671, -94.528333)",64127,East Community Team South,Jackson,3,East,19066,39.082671,-94.528333,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017031513,
+2017030248,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/18/2017,09:04 PM,3,2017,RESOL,Y,06/23/2017,6,2017,97,8502 HOLMES ST,"8502 HOLMES ST
+64131
+(38.971954, -94.583882)",64131,Santa Fe Hills,Jackson,6,Metro,149408,38.971954,-94.583882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017030248,
+2017029446,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/16/2017,11:54 AM,3,2017,RESOL,N,03/16/2017,3,2017,0,2456 CYPRESS AVE,"2456 CYPRESS AVE
+64127
+(39.080207, -94.531078)",64127,East Community Team South,Jackson,3,East,19421,39.080207,-94.531078,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017029446,
+2017029443,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/16/2017,11:54 AM,3,2017,RESOL,Y,06/23/2017,6,2017,99,2458 CYPRESS AVE,"2458 CYPRESS AVE
+64127
+(39.080137, -94.531081)",64127,East Community Team South,Jackson,3,East,19422,39.080137,-94.531081,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017029443,
+2017028699,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/14/2017,04:57 PM,3,2017,RESOL,Y,06/23/2017,6,2017,101,3228 E 11TH ST,"3228 E 11TH ST
+64127
+(39.100616, -94.542944)",64127,Lykins,Jackson,3,East,10943,39.100616,-94.542944,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017028699,
+2017025594,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/07/2017,12:41 PM,3,2017,RESOL,Y,06/22/2017,6,2017,107,2800 RAYTOWN RD,"2800 RAYTOWN RD
+64128
+(39.074231, -94.526275)",64128,East Community Team South,Jackson,3,East,22173,39.074231,-94.526275,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017025594,
+2017026936,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/09/2017,02:30 PM,3,2017,RESOL,Y,06/23/2017,6,2017,106,8030 INDIANA AVE,"8030 INDIANA AVE
+64132
+(38.980193, -94.548803)",64132,Marlborough East,Jackson,5,Metro,4786,38.980193,-94.548803,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017026936,
+2017024536,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/05/2017,08:49 PM,3,2017,RESOL,Y,05/15/2017,5,2017,71,1100 SUMMIT ST,"1100 SUMMIT ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017024536,
+2017023358,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/01/2017,04:21 PM,3,2017,RESOL,Y,06/21/2017,6,2017,112,1000 HARRISON ST,"1000 HARRISON ST
+64106
+(39.1016, -94.571501)",64106,Paseo West,Jackson,3,Central,12677,39.1016,-94.571501,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017023358,
+2017023724,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/02/2017,01:37 PM,3,2017,RESOL,Y,06/21/2017,6,2017,111,1414 BENTON BLVD,"1414 BENTON BLVD
+64127
+(39.095217, -94.545014)",64127,18th And Vine And Downtown East,Jackson,3,East,11095,39.095217,-94.545014,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017023724,
+2017023580,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/02/2017,10:19 AM,3,2017,RESOL,Y,06/21/2017,6,2017,111,301 W 14TH ST,"301 W 14TH ST
+64105
+(39.097176, -94.587536)",64105,CBD Downtown,Jackson,4,Central,122610,39.097176,-94.587536,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017023580,
+2017022704,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/28/2017,02:41 PM,2,2017,RESOL,Y,06/21/2017,6,2017,113,1006 SPRUCE AVE,"1006 SPRUCE AVE
+64127
+(39.100249, -94.53263)",64127,Lykins,Jackson,3,East,8252,39.100249,-94.53263,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017022704,
+2017019786,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/21/2017,06:48 PM,2,2017,RESOL,Y,06/21/2017,6,2017,120,6630 BROADMOOR RD,"6630 BROADMOOR RD
+64131
+(39.007354, -94.567359)",64131,Neighbors United For Action,Jackson,5,Metro,105461,39.007354,-94.567359,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017019786,
+2017019493,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/21/2017,01:40 PM,2,2017,RESOL,N,02/24/2017,2,2017,3,810 W 13TH ST,"810 W 13TH ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017019493,
+2017018716,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/17/2017,02:16 PM,2,2017,RESOL,N,02/24/2017,2,2017,7,342 N WHITE AVE,"342 N WHITE AVE
+64123
+(39.115594, -94.511857)",64123,North Indian Mound,Jackson,4,East,45730,39.115594,-94.511857,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017018716,
+2017018693,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/17/2017,01:49 PM,2,2017,RESOL,Y,06/21/2017,6,2017,124,8700 E 60TH TER,"8700 E 60TH TER
+64129
+(39.014983, -94.484243)",64129,Lewis Heights,Jackson,5,Metro,52461,39.014983,-94.484243,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017018693,
+2017019185,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/21/2017,09:20 AM,2,2017,RESOL,N,02/21/2017,2,2017,0,1821 LISTER AVE,"1821 LISTER AVE
+64127
+(39.089128, -94.526717)",64127,East Community Team North,Jackson,3,East,18147,39.089128,-94.526717,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017019185,
+2017017827,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/15/2017,04:54 PM,2,2017,RESOL,Y,06/21/2017,6,2017,126,8281 N CHURCH RD,"8281 N CHURCH RD
+64158
+(39.241876, -94.460929)",64158,Shoal Creek,Clay,1,Shoal Creek,260171,39.241876,-94.460929,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017017827,
+2017016299,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/13/2017,09:21 AM,2,2017,RESOL,Y,05/15/2017,5,2017,91,800 JEFFERSON ST,"800 JEFFERSON ST
+64105
+(39.105611, -94.59159)",64105,Quality Hill,Jackson,4,Central,228088,39.105611,-94.59159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017016299,
+2017015627,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/09/2017,06:10 PM,2,2017,RESOL,N,02/10/2017,2,2017,1,11162 WALNUT ST,"11162 WALNUT ST
+64114
+(38.924005, -94.591852)",64114,Red Bridge South,Jackson,6,South,155259,38.924005,-94.591852,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017015627,
+2017016517,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/13/2017,12:42 PM,2,2017,RESOL,N,02/16/2017,2,2017,3,108 GILLIS ST,"108 GILLIS ST
+64120
+(39.1126, -94.572763)",64120,Columbus Park Industrial,Jackson,4,Central,211145,39.1126,-94.572763,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017016517,
+2017014721,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/07/2017,11:33 PM,2,2017,RESOL,N,02/08/2017,2,2017,1,4251 N ANTIOCH RD,"4251 N ANTIOCH RD
+64117
+(39.171177, -94.548578)",64117,Chaumiere,Clay,1,Shoal Creek,77436,39.171177,-94.548578,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017014721,
+2017015510,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/09/2017,02:39 PM,2,2017,RESOL,N,02/13/2017,2,2017,4,935 JACKSON AVE,"935 JACKSON AVE
+64127
+(39.10081, -94.532892)",64127,Lykins,Jackson,3,East,8260,39.10081,-94.532892,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017015510,
+2017015509,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/09/2017,02:37 PM,2,2017,RESOL,N,02/13/2017,2,2017,4,1000 SPRUCE AVE,"1000 SPRUCE AVE
+64127
+(39.100501, -94.532616)",64127,Lykins,Jackson,3,East,8254,39.100501,-94.532616,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017015509,
+2017015506,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/09/2017,02:34 PM,2,2017,RESOL,Y,06/21/2017,6,2017,132,937 JACKSON AVE,"937 JACKSON AVE
+64127
+(39.100678, -94.53276)",64127,Lykins,Jackson,3,East,8259,39.100678,-94.53276,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017015506,
+2017015504,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/09/2017,02:31 PM,2,2017,RESOL,Y,06/21/2017,6,2017,132,931 JACKSON AVE,"931 JACKSON AVE
+64127
+(39.100996, -94.532764)",64127,Lykins,Jackson,3,East,8263,39.100996,-94.532764,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017015504,
+2017014271,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/07/2017,09:25 AM,2,2017,RESOL,Y,06/21/2017,6,2017,134,4821 ROANOKE PKWY TR 12,"4821 ROANOKE PKWY TR
+64112
+(39.039878, -94.597095)",64112,West Plaza,Jackson,4,Central,227789,39.039878,-94.597095,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017014271,
+2017014265,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/07/2017,09:22 AM,2,2017,RESOL,Y,06/21/2017,6,2017,134,105 WARD PKWY,"105 WARD PKWY
+64112
+(39.039686, -94.58858)",64112,South Plaza,Jackson,4,Metro,140030,39.039686,-94.58858,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017014265,
+2017014160,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/07/2017,07:30 AM,2,2017,RESOL,N,02/10/2017,2,2017,3,7152 OAK ST,"7152 OAK ST
+64114
+(38.997543, -94.584975)",64114,Tower Homes,Jackson,6,Metro,112283,38.997543,-94.584975,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017014160,
+2017011706,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/31/2017,11:29 AM,1,2017,RESOL,Y,05/16/2017,5,2017,105,414 E 12TH ST,"414 E 12TH ST
+64106
+(39.100387, -94.577919)",64106,CBD Downtown,Jackson,4,Central,12614,39.100387,-94.577919,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017011706,
+2017011990,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/31/2017,04:29 PM,1,2017,RESOL,Y,06/21/2017,6,2017,141,739 N PROSPECT AVE,"739 N PROSPECT AVE
+64120
+(39.122144, -94.549892)",64120,Northeast Industrial District,Jackson,4,East,38783,39.122144,-94.549892,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017011990,
+2017010812,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/28/2017,12:29 PM,1,2017,RESOL,Y,06/21/2017,6,2017,144,4115 E 7TH ST,"4115 E 7TH ST
+64124
+(39.103431, -94.534053)",64124,Lykins,Jackson,3,East,9628,39.103431,-94.534053,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017010812,
+2017011554,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/31/2017,09:16 AM,1,2017,RESOL,Y,06/21/2017,6,2017,141,414 E 12TH ST,"414 E 12TH ST
+64106
+(39.100387, -94.577919)",64106,CBD Downtown,Jackson,4,Central,12614,39.100387,-94.577919,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017011554,
+2017010593,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/27/2017,12:13 PM,1,2017,RESOL,Y,06/21/2017,6,2017,145,1050 E 4TH ST,"1050 E 4TH ST
+64120
+(39.113526, -94.567193)",64120,Columbus Park,Jackson,4,Central,219193,39.113526,-94.567193,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017010593,
+2017008578,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/23/2017,03:36 PM,1,2017,RESOL,Y,06/21/2017,6,2017,149,8199 NW MILREY DR,"8199 NW MILREY DR
+64152
+(39.242252, -94.661948)",64152,Platte Ridge,Platte,2,North,169213,39.242252,-94.661948,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017008578,
+2017006974,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/19/2017,08:48 AM,1,2017,RESOL,Y,06/21/2017,6,2017,153,5521 TROOST AVE,"5521 TROOST AVE
+64110
+(39.026263, -94.573498)",64110,Eastern 49-63,Jackson,5,Metro,147061,39.026263,-94.573498,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017006974,
+2017006861,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/18/2017,05:58 PM,1,2017,RESOL,Y,06/21/2017,6,2017,154,1301 NE INDUSTRIAL TRFY,"1301 NE INDUSTRIAL TRFY
+64120
+(39.114581, -94.567194)",64120,Columbus Park Industrial,Jackson,4,Central,39619,39.114581,-94.567194,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017006861,
+2017007490,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/19/2017,07:27 PM,1,2017,RESOL,N,04/04/2017,4,2017,75,2806 HIGHLAND AVE,"2806 HIGHLAND AVE
+64109
+(39.075363, -94.563247)",64109,Mount Hope,Jackson,3,Central,27070,39.075363,-94.563247,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017007490,
+2017006056,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/17/2017,12:47 PM,1,2017,RESOL,N,01/19/2017,1,2017,2,2308 E RED BRIDGE RD,"2308 E RED BRIDGE RD
+64131
+(38.925266, -94.562582)",64131,St Catherines Gardens,Jackson,6,South,156093,38.925266,-94.562582,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017006056,
+2017005985,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/17/2017,11:43 AM,1,2017,RESOL,Y,01/31/2017,1,2017,14,501 N BELMONT BLVD,"501 N BELMONT BLVD
+64123
+(39.11871, -94.509293)",64123,North Indian Mound,Jackson,4,East,45664,39.11871,-94.509293,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017005985,
+2017005941,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/17/2017,11:08 AM,1,2017,RESOL,N,01/18/2017,1,2017,1,1325 KENSINGTON AVE,"1325 KENSINGTON AVE
+64127
+(39.095965, -94.530402)",64127,East Community Team North,Jackson,3,East,8459,39.095965,-94.530402,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017005941,
+2017004305,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/11/2017,10:27 AM,1,2017,RESOL,Y,06/21/2017,6,2017,161,718 GRAND BLVD,"718 GRAND BLVD
+64106
+(39.104913, -94.581056)",64106,CBD Downtown,Jackson,4,Central,12734,39.104913,-94.581056,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017004305,
+2017000784,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/04/2017,08:53 AM,1,2017,RESOL,Y,01/31/2017,1,2017,27,6200 WILSON AVE,"6200 WILSON AVE
+64123
+(39.108306, -94.508524)",64123,,Jackson,4,East,45906,39.108306,-94.508524,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017000784,
+2017022993,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,03/01/2017,09:15 AM,3,2017,OPEN,N,,,,,2901 TROOST AVE,"2901 TROOST AVE
+64109
+(39.073544, -94.570501)",64109,Beacon Hills,,3,Central,27317,39.073544,-94.570501,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017022993,0
+2018034262,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/21/2018,09:42 AM,3,2018,OPEN,N,,,,,2805 CHELSEA AVE,"2805 CHELSEA AVE
+64128
+(39.074216, -94.527112)",64128,East Community Team South,Jackson,3,East,22137,39.074216,-94.527112,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018034262,0
+2018034122,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/20/2018,07:56 PM,3,2018,OPEN,N,,,,,1200 W 23RD TRFY,"1200 W 23RD TRFY
+64102
+(39.086286, -94.598737)",64102,Westside North,Jackson,4,Central,124041,39.086286,-94.598737,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018034122,0
+2018032891,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/19/2018,09:26 AM,3,2018,OPEN,N,,,,,2800 SUMMIT ST,"2800 SUMMIT ST
+64108
+(39.076707, -94.594579)",64108,Westside South,Jackson,4,Central,128670,39.076707,-94.594579,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018032891,0
+2018030349,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/13/2018,09:04 AM,3,2018,OPEN,Y,,,,,2201 MANCHESTER TRFY,"2201 MANCHESTER TRFY
+64126
+(39.083302, -94.491819)",64126,Blue Valley Industrial,Jackson,3,East,46565,39.083302,-94.491819,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018030349,0
+2018028989,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/08/2018,09:51 PM,3,2018,OPEN,Y,,,,,4300 STERLING AVE,"4300 STERLING AVE
+64133
+(39.043846, -94.449309)",64133,Riss Lake,Jackson,3,East,254418,39.043846,-94.449309,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018028989,0
+2018031109,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,03/14/2018,10:55 AM,3,2018,RESOL,N,03/19/2018,3,2018,5,4300 STERLING AVE,"4300 STERLING AVE
+64133
+(39.043846, -94.449309)",64133,Riss Lake,Jackson,3,East,254418,39.043846,-94.449309,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018031109,
+2018033193,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/19/2018,02:20 PM,3,2018,OPEN,N,,,,,8607 WINNER RD,"8607 WINNER RD
+64125
+(39.106902, -94.481571)",64125,North Blue Ridge,Jackson,4,East,46951,39.106902,-94.481571,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018033193,0
+2018023875,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/27/2018,08:45 AM,2,2018,RESOL,N,03/19/2018,3,2018,20,4501 RAYTOWN RD,"4501 RAYTOWN RD
+64129
+(39.043993, -94.485124)",64129,,Jackson,3,East,50320,39.043993,-94.485124,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023875,
+2018023625,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/26/2018,04:04 PM,2,2018,RESOL,Y,03/19/2018,3,2018,21,815 CHERRY ST,"815 CHERRY ST
+64106
+(39.10375, -94.575751)",64106,CBD Downtown,Jackson,4,Central,12588,39.10375,-94.575751,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023625,
+2018023506,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/26/2018,02:14 PM,2,2018,RESOL,N,03/19/2018,3,2018,21,512 E LINWOOD BLVD,"512 E LINWOOD BLVD
+64109
+(39.069187, -94.578143)",64109,North Hyde Park,Jackson,4,Central,128247,39.069187,-94.578143,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023506,
+2018023324,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/26/2018,11:21 AM,2,2018,RESOL,Y,03/19/2018,3,2018,21,4305 INDEPENDENCE AVE,"4305 INDEPENDENCE AVE
+64124
+(39.105353, -94.531193)",64124,Lykins,Jackson,3,East,8100,39.105353,-94.531193,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023324,
+2018030085,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/12/2018,03:36 PM,3,2018,RESOL,N,03/19/2018,3,2018,7,712 E 43RD ST,"712 E 43RD ST
+64110
+(39.049192, -94.576403)",64110,South Hyde Park,Jackson,4,Central,133628,39.049192,-94.576403,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018030085,
+2018026092,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/02/2018,11:52 AM,3,2018,RESOL,Y,03/19/2018,3,2018,17,1050 E 4TH ST,"1050 E 4TH ST
+64120
+(39.113526, -94.567193)",64120,Columbus Park,Jackson,4,Central,219193,39.113526,-94.567193,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018026092,
+2018031530,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/14/2018,07:34 PM,3,2018,OPEN,N,,,,,712 E 43RD ST,"712 E 43RD ST
+64110
+(39.049192, -94.576403)",64110,South Hyde Park,Jackson,4,Central,133628,39.049192,-94.576403,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018031530,0
+2018031213,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/14/2018,12:53 PM,3,2018,OPEN,N,,,,,115 GRAND BLVD,"115 GRAND BLVD
+64106
+(39.112335, -94.579494)",64106,River Market,Jackson,4,Central,39053,39.112335,-94.579494,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018031213,0
+2018022958,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/24/2018,02:20 PM,2,2018,RESOL,Y,03/13/2018,3,2018,17,2614 WOODLAND AVE,"2614 WOODLAND AVE
+64108
+(39.078719, -94.561991)",64108,Wendell Phillips,Jackson,3,Central,13986,39.078719,-94.561991,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018022958,
+2018022957,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/24/2018,02:20 PM,2,2018,RESOL,Y,03/13/2018,3,2018,17,2220 TRACY AVE,"2220 TRACY AVE
+64108
+(39.085277, -94.568307)",64108,Beacon Hills,Jackson,3,Central,13436,39.085277,-94.568307,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018022957,
+2018022901,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/23/2018,05:39 PM,2,2018,RESOL,Y,03/13/2018,3,2018,18,7200 E TRUMAN RD,"7200 E TRUMAN RD
+64126
+(39.094084, -94.498483)",64126,Blue Valley Industrial,Jackson,3,East,6895,39.094084,-94.498483,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018022901,
+2018030097,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/12/2018,03:46 PM,3,2018,OPEN,N,,,,,649 E BANNISTER RD,"649 E BANNISTER RD
+64131
+(38.955225, -94.582688)",64131,Willow Creek,Jackson,6,South,152263,38.955225,-94.582688,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018030097,0
+2018029952,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/12/2018,01:08 PM,3,2018,OPEN,N,,,,,2645 MADISON AVE,"2645 MADISON AVE
+64108
+(39.078831, -94.594946)",64108,Westside South,Jackson,4,Central,124541,39.078831,-94.594946,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018029952,0
+2018029846,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/12/2018,11:17 AM,3,2018,OPEN,N,,,,,450 PASEO,"450 PASEO
+64106
+(39.113402, -94.561344)",64106,Pendleton Heights,Jackson,3,Central,39640,39.113402,-94.561344,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018029846,0
+2018029865,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/12/2018,11:34 AM,3,2018,OPEN,N,,,,,9433 WALNUT ST,"9433 WALNUT ST
+64114
+(38.956291, -94.589783)",64114,Boone Hills,Jackson,6,Metro,151728,38.956291,-94.589783,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018029865,0
+2018028768,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/08/2018,01:10 PM,3,2018,OPEN,N,,,,,800 JEFFERSON ST,"800 JEFFERSON ST
+64105
+(39.105611, -94.59159)",64105,Quality Hill,Jackson,4,Central,228088,39.105611,-94.59159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018028768,0
+2018026851,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/05/2018,12:05 PM,3,2018,OPEN,N,,,,,800 JEFFERSON ST,"800 JEFFERSON ST
+64105
+(39.105611, -94.59159)",64105,Quality Hill,Jackson,4,Central,228088,39.105611,-94.59159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018026851,0
+2018028475,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/08/2018,07:53 AM,3,2018,OPEN,N,,,,,1620 INDEPENDENCE BLVD,"1620 INDEPENDENCE BLVD
+64106
+(39.107191, -94.5627)",64106,Pendleton Heights,Jackson,3,Central,39791,39.107191,-94.5627,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018028475,0
+2018028151,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/07/2018,01:05 PM,3,2018,OPEN,N,,,,,1321 ADMIRAL BLVD,"1321 ADMIRAL BLVD
+64106
+(39.105128, -94.566261)",64106,Paseo West,Jackson,3,Central,12027,39.105128,-94.566261,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018028151,0
+2018020411,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/19/2018,08:59 PM,2,2018,RESOL,Y,03/07/2018,3,2018,16,1914 E MISSOURI AVE,"1914 E MISSOURI AVE
+64124
+(39.109413, -94.557612)",64124,Pendleton Heights,Jackson,3,Central,40076,39.109413,-94.557612,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018020411,
+2018015075,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/02/2018,12:06 PM,2,2018,RESOL,Y,03/07/2018,3,2018,33,450 PASEO,"450 PASEO
+64106
+(39.113402, -94.561344)",64106,Pendleton Heights,Jackson,3,Central,39640,39.113402,-94.561344,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018015075,
+2018020182,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/16/2018,03:19 PM,2,2018,RESOL,Y,03/06/2018,3,2018,18,400 W 31ST ST,"400 W 31ST ST
+64108
+(39.074934, -94.591904)",64108,Westside South,Jackson,4,Central,128568,39.074934,-94.591904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018020182,
+2018026391,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,03/03/2018,08:31 AM,3,2018,OPEN,N,,,,,4419 E 10TH ST,"4419 E 10TH ST
+64127
+(39.100652, -94.529482)",64127,Lykins,Jackson,3,East,8332,39.100652,-94.529482,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018026391,0
+2018018688,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/13/2018,12:57 PM,2,2018,RESOL,Y,03/05/2018,3,2018,20,823 WHITE AVE,"823 WHITE AVE
+64125
+(39.101667, -94.511111)",64125,Sheffield,Jackson,4,East,5555,39.101667,-94.511111,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018018688,
+2018018275,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/12/2018,03:02 PM,2,2018,RESOL,Y,03/05/2018,3,2018,21,8507 INDEPENDENCE AVE,"8507 INDEPENDENCE AVE
+64125
+(39.102978, -94.484988)",64125,North Blue Ridge,Jackson,4,East,47243,39.102978,-94.484988,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018018275,
+2018017502,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/09/2018,10:08 AM,2,2018,RESOL,Y,03/05/2018,3,2018,24,4000 NE CHOUTEAU TRFY,"4000 NE CHOUTEAU TRFY
+64117
+(39.168093, -94.533445)",64117,Chaumiere,Clay,1,Shoal Creek,225049,39.168093,-94.533445,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018017502,
+2018015468,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/05/2018,08:14 AM,2,2018,RESOL,Y,03/05/2018,3,2018,28,1647 E 2ND ST,"1647 E 2ND ST
+64106
+(39.112617, -94.563375)",64106,Pendleton Heights,Jackson,3,Central,39672,39.112617,-94.563375,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018015468,
+2018015463,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/05/2018,08:11 AM,2,2018,RESOL,Y,03/05/2018,3,2018,28,3260 CLIFF DR,"3260 CLIFF DR
+64123
+(39.116042, -94.546818)",64123,Scarritt Point,Jackson,4,East,40709,39.116042,-94.546818,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018015463,
+2018012924,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/29/2018,10:11 AM,1,2018,RESOL,Y,03/05/2018,3,2018,35,6311 ST JOHN AVE,"6311 ST JOHN AVE
+64123
+(39.110102, -94.507136)",64123,,Jackson,4,East,45898,39.110102,-94.507136,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018012924,
+2018012542,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/26/2018,01:59 PM,1,2018,RESOL,Y,03/05/2018,3,2018,38,706 E TRUMAN RD,"706 E TRUMAN RD
+64106
+(39.095828, -94.574445)",64106,Hospital Hill,Jackson,4,Central,12912,39.095828,-94.574445,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018012542,
+2018009011,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/18/2018,11:45 AM,1,2018,RESOL,Y,03/05/2018,3,2018,46,4705 E 18TH ST,"4705 E 18TH ST
+64127
+(39.089841, -94.527677)",64127,East Community Team North,Jackson,3,East,18196,39.089841,-94.527677,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018009011,
+2018026946,FAX,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,03/05/2018,01:50 PM,3,2018,OPEN,N,,,,,2200 GILLHAM RD,"2200 GILLHAM RD
+64108
+(39.085905, -94.579452)",64108,Crown Center,Jackson,4,Central,211223,39.085905,-94.579452,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018026946,0
+2018024552,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/28/2018,08:41 AM,2,2018,OPEN,N,,,,,4419 E 10TH ST,"4419 E 10TH ST
+64127
+(39.100652, -94.529482)",64127,Lykins,Jackson,3,East,8332,39.100652,-94.529482,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018024552,0
+2018023525,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/26/2018,02:23 PM,2,2018,RESOL,N,02/28/2018,2,2018,2,10704 ST CATHERINES LN,"10704 ST CATHERINES LN
+64137
+(38.931662, -94.554145)",64137,St Catherines Gardens,Jackson,6,South,61873,38.931662,-94.554145,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023525,
+2018023776,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,02/27/2018,06:23 AM,2,2018,RESOL,N,02/28/2018,2,2018,1,450 PASEO,"450 PASEO
+64106
+(39.113402, -94.561344)",64106,Pendleton Heights,Jackson,3,Central,39640,39.113402,-94.561344,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018023776,
+2018015829,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,02/05/2018,03:19 PM,2,2018,RESOL,N,02/15/2018,2,2018,10,3226 TROOST AVE,"3226 TROOST AVE
+64109
+(39.067721, -94.571868)",64109,North Hyde Park,Jackson,4,Central,128157,39.067721,-94.571868,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018015829,
+2018013318,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/29/2018,05:05 PM,1,2018,RESOL,N,02/05/2018,2,2018,7,8701 E 79TH ST,"8701 E 79TH ST
+64138
+(38.980434, -94.485713)",64138,Park Farms,Jackson,5,Metro,53793,38.980434,-94.485713,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018013318,
+2018012634,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/26/2018,04:13 PM,1,2018,RESOL,N,02/21/2018,2,2018,26,400 W 11TH ST,"400 W 11TH ST
+64105
+(39.101517, -94.588685)",64105,Quality Hill,Jackson,4,Central,253197,39.101517,-94.588685,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018012634,
+2018012052,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/25/2018,03:09 PM,1,2018,RESOL,Y,02/12/2018,2,2018,18,1048 NE INDUSTRIAL TRFY,"1048 NE INDUSTRIAL TRFY
+64120
+(39.113099, -94.570802)",64120,Columbus Park Industrial,Jackson,4,Central,39223,39.113099,-94.570802,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018012052,
+2018012047,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/25/2018,03:04 PM,1,2018,RESOL,Y,02/12/2018,2,2018,18,1050 E 4TH ST,"1050 E 4TH ST
+64120
+(39.113526, -94.567193)",64120,Columbus Park,Jackson,4,Central,219193,39.113526,-94.567193,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018012047,
+2018011575,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/24/2018,05:04 PM,1,2018,RESOL,Y,02/12/2018,2,2018,19,8330 E 9TH ST,"8330 E 9TH ST
+64125
+(39.101232, -94.485735)",64125,North Blue Ridge,Jackson,4,East,47228,39.101232,-94.485735,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018011575,
+2018010040,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/22/2018,09:37 AM,1,2018,RESOL,Y,02/12/2018,2,2018,21,1804 ELMWOOD AVE,"1804 ELMWOOD AVE
+64127
+(39.089735, -94.529389)",64127,East Community Team North,Jackson,3,East,18506,39.089735,-94.529389,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018010040,
+2018010910,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/23/2018,03:45 PM,1,2018,RESOL,Y,02/12/2018,2,2018,20,1824 CHARLOTTE ST,"1824 CHARLOTTE ST
+64108
+(39.090544, -94.574717)",64108,Hospital Hill,Jackson,4,Central,124586,39.090544,-94.574717,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018010910,
+2018010903,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/23/2018,03:35 PM,1,2018,RESOL,Y,02/12/2018,2,2018,20,810 W 13TH ST,"810 W 13TH ST
+64105
+(39.098791, -94.594882)",64105,Westside North,Jackson,4,Central,122942,39.098791,-94.594882,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018010903,
+2018009823,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/20/2018,09:41 AM,1,2018,RESOL,Y,02/12/2018,2,2018,23,7516 JAMES A REED RD,"7516 JAMES A REED RD
+64138
+(38.987555, -94.493166)",64138,Park Farms,Jackson,5,Metro,53539,38.987555,-94.493166,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018009823,
+2018010345,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/22/2018,02:30 PM,1,2018,RESOL,Y,02/12/2018,2,2018,21,5101 GLADSTONE BLVD,"5101 GLADSTONE BLVD
+64123
+(39.118341, -94.521694)",64123,North Indian Mound,Jackson,4,East,42609,39.118341,-94.521694,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018010345,
+2018009162,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/18/2018,03:18 PM,1,2018,RESOL,Y,02/12/2018,2,2018,25,2200 INDEPENDENCE BLVD,"2200 INDEPENDENCE BLVD
+64124
+(39.106763, -94.555037)",64124,Pendleton Heights,Jackson,3,Central,40305,39.106763,-94.555037,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018009162,
+2018008380,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/17/2018,10:48 AM,1,2018,RESOL,Y,02/08/2018,2,2018,22,820 E 3RD ST,"820 E 3RD ST
+64106
+(39.112107, -94.574386)",64106,Columbus Park Industrial,Jackson,4,Central,39249,39.112107,-94.574386,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018008380,
+2018008022,EMAIL,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/16/2018,04:18 PM,1,2018,RESOL,Y,02/12/2018,2,2018,27,2226 TRACY AVE,"2226 TRACY AVE
+64108
+(39.085069, -94.568186)",64108,Beacon Hills,Jackson,3,Central,13439,39.085069,-94.568186,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018008022,
+2018007326,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/13/2018,06:53 AM,1,2018,RESOL,Y,01/30/2018,1,2018,17,1646 CORRINGTON AVE,"1646 CORRINGTON AVE
+64126
+(39.090478, -94.499226)",64126,East Blue Valley,Jackson,3,East,7352,39.090478,-94.499226,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018007326,
+2018005847,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/10/2018,01:03 PM,1,2018,RESOL,Y,01/25/2018,1,2018,15,101 TROOST AVE,"101 TROOST AVE
+64120
+(39.11331, -94.569559)",64120,Columbus Park Industrial,Jackson,4,Central,39676,39.11331,-94.569559,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018005847,
+2018005840,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/10/2018,12:55 PM,1,2018,RESOL,Y,01/25/2018,1,2018,15,105 HARRISON ST,"105 HARRISON ST
+64120
+(39.113359, -94.572859)",64120,Columbus Park Industrial,Jackson,4,Central,39201,39.113359,-94.572859,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018005840,
+2018006226,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Other,Public Safety,Police,Other,01/10/2018,07:06 PM,1,2018,RESOL,N,01/25/2018,1,2018,15,3130 MERSINGTON AVE,"3130 MERSINGTON AVE
+64128
+(39.068077, -94.538553)",64128,Ingleside,Jackson,3,East,263080,39.068077,-94.538553,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018006226,
+2018004174,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/08/2018,03:29 PM,1,2018,RESOL,Y,01/25/2018,1,2018,17,450 PASEO,"450 PASEO
+64106
+(39.113402, -94.561344)",64106,Pendleton Heights,Jackson,3,Central,39640,39.113402,-94.561344,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018004174,
+2018003945,PHONE,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/08/2018,12:26 PM,1,2018,RESOL,Y,01/25/2018,1,2018,17,629 W 39TH ST,"629 W 39TH ST
+64111
+(39.056616, -94.594531)",64111,Old Westport,Jackson,4,Central,131103,39.056616,-94.594531,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018003945,
+2018001862,WEB,City Managers Office,City Managers Office-KCPD-,Public Safety-Police-Homeless camp,Public Safety,Police,Homeless Camp,01/04/2018,08:41 AM,1,2018,RESOL,Y,01/25/2018,1,2018,21,1108 TRACY AVE,"1108 TRACY AVE
+64106
+(39.100223, -94.567539)",64106,Paseo West,Jackson,3,Central,12116,39.100223,-94.567539,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018001862,
